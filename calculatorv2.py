@@ -4,7 +4,7 @@ hata1 = {"uyarimesaj1":"Bir sayı sıfıra bölünemez!\n"}
 hata2 = {"uyarimesaj2":"Negatif sayıların karekökü alınamaz!\n"}
 hata3 = {"uyarimesaj3":"Geçersiz bir tuşa bastınız!\nAna menüye yönlendiriliyorsunuz.\n"}
 
-#hesap mak işlemler sınıfı
+#işlemler sınıfı
 class Calculator:
     #kurucu method
     def __init__(self):
